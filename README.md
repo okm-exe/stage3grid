@@ -1,4 +1,4 @@
-# Projeto Stage 03 Grid
+# Project Stage 03 Grid
 
 ## 🚀 Technologies
 This project was developed using the following technologies:
